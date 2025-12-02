@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "FC_WILDERNESS_PARK_POLYGON_LAST",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4269" } },
+"features": [
+
+]
+}
